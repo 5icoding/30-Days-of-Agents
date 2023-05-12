@@ -23,3 +23,11 @@ http://localhost:3000/post-1/04-tiled/index.html
 http://localhost:3000/post-1/05-physics/index.html
 
 https://github.com/nodes777/flower-game-phaser3
+
+
+https://wdxtub.com/paper/paper-008/2023/04/25/
+【论文笔记】008 Generative Agents - Interactive Simulacra of Human Behavior
+
+https://blog.csdn.net/qq_51957239/article/details/130492217
+论文翻译：《生成式智能体：人类行为的交互式模拟》(Generative Agents: Interactive Simulacra of Human Behavior)
+
